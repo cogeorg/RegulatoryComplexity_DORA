@@ -1,3 +1,81 @@
+Advanced Persistent Threat
+APT
+Asset
+Cyber Advisory
+Cyber Alert
+Cyber Event
+Cyber Incident
+Cyber Incident Response Plan
+Cyber Resilience
+Cyber Risk
+Cyber Security
+Cyber Threat
+Data Breach
+Defence-in-Depth
+Denial of Service
+DoS
+Distributed Denial of Service
+DDoS
+Exploit
+Identity and Access Management
+IAM
+Incident Response Team
+IRT
+CERT
+CSIRT
+Indicators of Compromise
+IoCs
+Information Sharing
+Information System
+Malware
+Multi-Factor Authentication
+Patch Management
+Penetration Testing
+Social Engineering
+Tactics, Techniques and Procedures
+TTPs
+Threat Actor
+Threat Assessment
+Threat Intelligence
+Threat-Led Penetration Testing
+TLPT
+Threat Vector
+Traffic Light Protocol
+TLP
+Vulnerability
+Vulnerability Assessment
+CPMI-IOSCO
+FFIEC
+FIRST
+G-7 Fundamental Elements
+ISACA
+ISACA Fundamentals
+ISACA Full Glossary
+ISO/IEC
+NICCS
+NIST
+NIST Framework
+STIX
+Blue Team
+critical function
+generic threat landscape
+human intelligence
+HUMINT
+non-disclosure agreement
+NDA
+open-source intelligence
+OSI
+RACI
+Responsibility Assignment Matrix
+Red Team
+TIBER Cyber Team
+threat intelligence-based ethical red teaming
+TIBER
+TIBER-EU Knowledge Centre
+targeted threat intelligence
+Team Test Manager
+tactics, techniques and procedures
+White Team
 /case study
 AA/AAA credit ratings
 ABCP see asset-backed commercial paper
