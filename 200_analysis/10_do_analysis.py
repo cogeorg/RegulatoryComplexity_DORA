@@ -96,7 +96,7 @@ def do_run(input_file_name, output_file_name):
         print("    # Other: " + str(len(Other)))
         print("    # Unclassified: " + str(len(Unclassified)))
 
-    input_file = open(input_file_name, 'r')
+    input_file = open(input_file_name, 'r', encoding="utf-8")
 
     # read .txt file
     for line in input_file.readlines():
@@ -202,7 +202,7 @@ def do_run(input_file_name, output_file_name):
     # write out unclassified tokens
     #
     out_text = ""
-    out_file = open("./unclassified/unclassified-" + output_file_name, "w")
+    out_file = open("./unclassified/unclassified-" + output_file_name, "w", encoding="utf-8")
     for token in set(unique['unclassified']):
         out_text += token + ";" + str(unique['unclassified'].count(token)) + "\n"
     out_file.write(out_text)
