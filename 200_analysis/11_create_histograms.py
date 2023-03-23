@@ -10,7 +10,7 @@ import re
 # -------------------------------------------------------------------------
 def do_run(input_file_name, output_file_name):
     arr = []
-    out_text = "frequency;num_words;rel_num_words"
+    out_text = "frequency;num_words;rel_num_words\n"
 
     input_file = open(input_file_name, "r")
     for line in input_file.readlines():

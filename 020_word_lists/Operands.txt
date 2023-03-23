@@ -1,81 +1,3 @@
-Advanced Persistent Threat
-APT
-Asset
-Cyber Advisory
-Cyber Alert
-Cyber Event
-Cyber Incident
-Cyber Incident Response Plan
-Cyber Resilience
-Cyber Risk
-Cyber Security
-Cyber Threat
-Data Breach
-Defence-in-Depth
-Denial of Service
-DoS
-Distributed Denial of Service
-DDoS
-Exploit
-Identity and Access Management
-IAM
-Incident Response Team
-IRT
-CERT
-CSIRT
-Indicators of Compromise
-IoCs
-Information Sharing
-Information System
-Malware
-Multi-Factor Authentication
-Patch Management
-Penetration Testing
-Social Engineering
-Tactics, Techniques and Procedures
-TTPs
-Threat Actor
-Threat Assessment
-Threat Intelligence
-Threat-Led Penetration Testing
-TLPT
-Threat Vector
-Traffic Light Protocol
-TLP
-Vulnerability
-Vulnerability Assessment
-CPMI-IOSCO
-FFIEC
-FIRST
-G-7 Fundamental Elements
-ISACA
-ISACA Fundamentals
-ISACA Full Glossary
-ISO/IEC
-NICCS
-NIST
-NIST Framework
-STIX
-Blue Team
-critical function
-generic threat landscape
-human intelligence
-HUMINT
-non-disclosure agreement
-NDA
-open-source intelligence
-OSI
-RACI
-Responsibility Assignment Matrix
-Red Team
-TIBER Cyber Team
-threat intelligence-based ethical red teaming
-TIBER
-TIBER-EU Knowledge Centre
-targeted threat intelligence
-Team Test Manager
-tactics, techniques and procedures
-White Team
 /case study
 AA/AAA credit ratings
 ABCP see asset-backed commercial paper
@@ -1159,10 +1081,6 @@ accounting relief
 accounting standards, proposed changes
 accounting studies
 accounting system
-achieves
-acquire
-acquired
-acquiring
 acquisition
 acquisitions
 act transactions
@@ -1470,7 +1388,7 @@ assets
 assets, weakened portfolios
 association with banks
 association with innovation
-assuring
+
 asymmetric information,
 asymmetric information,,,,,,,
 asymptotic-single-risk-factor (ASRF) framework
@@ -1485,9 +1403,9 @@ availability
 availability of data
 available
 available stable funding
-avoid
+
 avoid duplication
-avoids
+
 back end ratio
 back-up
 backup
@@ -1581,7 +1499,6 @@ basic characteristics of US regulatory system
 basic characteristics of regulatory system
 basis of financial system
 basis of the CFTC’s regulatory approach
-became
 begin
 beginnings of change
 behavioural analysis
@@ -1646,7 +1563,7 @@ capital-to-assets ratiosTab..
 capitalization of investment banking
 capitalized
 card pricing
-carries out
+
 carry out
 cash bonuses, Fig..
 cash reserve requirements,
@@ -1703,12 +1620,12 @@ collateral, criteria for
 collateralized debt obligations (CDOs),,,
 collateralized loan obligations (CLOs),,
 collateralized mortgage obligations (CMOs)
-collect
+
 collusive behaviour among banks
 combined loan-to-value (CLTV) ratios
 coming under strain
-commence
-commencing
+
+
 comments on regulatory responses
 comments on responses
 commercial
@@ -1763,7 +1680,6 @@ conduct of
 conduct of business regulation
 conduct which raises market concerns
 conducted
-conducting
 conduit sales
 confidence
 confidentiality
@@ -1806,7 +1722,6 @@ contagion,,,,,
 contestability and efficiency
 contestability,
 contingent capital
-continue
 continuous linked settlement (CLS) banks
 contract features, Fig..
 control of systemic risk
@@ -1952,7 +1867,7 @@ default risk models of credit supply,
 default view of financial economics
 deferred net settlement (DNS) systems,,
 defined,
-defining and measuring
+
 defining characteristics
 defining characteristics of institutional supervision
 deglobalization of finance
@@ -2153,9 +2068,6 @@ enforcement role
 enforcement tools
 enforcement trends
 enforcement,
-engage
-engaging
-ensures
 enterprise access to finance in international comparison, Fig..
 enterprise-contributed net worth
 entities
@@ -2199,7 +2111,6 @@ exchange ratio
 exclusion and non-citizenship
 exculpatory norms in
 exercise
-exercising
 existing reports
 expansion of activities
 expansive tendency
@@ -2424,7 +2335,7 @@ holding companies
 holding company
 holdings
 holdings connections,
-holds
+
 home
 home owners
 house of representatives
@@ -2512,9 +2423,9 @@ increase in cash reserves
 increase in credit supply
 increased pressure, US
 independent
+indirect
 index of banking reform
 indicative list of activities
-indirect
 indirect influence,,,
 industrial
 industrial development and human capital
@@ -2529,7 +2440,6 @@ inflation targeting,,
 inflation, post-transition
 influence on competition
 influence on policy
-inform
 informal public enforcement
 informal sector
 information as public good
@@ -2853,7 +2763,7 @@ measurement
 measurement and specification
 measurement and specification of agency costs
 measurement of impact of different outcomes
-measuring
+
 measuring enforcement
 mechanics liens
 mechanics of
@@ -2996,7 +2906,7 @@ objectives
 objectives,
 objectives-based Australian financial supervisory/architecture
 obstacles to
-obtain
+
 obtained
 of agents duties
 of consumer lending
@@ -3076,7 +2986,7 @@ payroll cards
 pensions schemes
 perfect competition,
 perfect contestability
-perform
+
 performance in relation to
 performance of large banks Tab..
 performance,
@@ -3184,9 +3094,6 @@ proposed acquisition
 proprietary trading
 protecting a subsidiary from the rest of the group
 protecting the group from a risky subsidiary
-provide
-provided
-provides
 provides assistance
 provision regulated by EU Member States
 prudential-related regulation
@@ -3202,12 +3109,13 @@ publicly traded
 purchaser
 pure
 pure risk
+pose
 purpose of regulation
 qualified
 qualified mortgage (QM)
 qualified residential
 qualified thrift lender
-qualify
+
 qualitative asset transformation,
 quantification of legal rules (leximetrics)
 quantitative easing
@@ -3229,10 +3137,9 @@ real estate mortgage investment conduits (REMICs)
 real time gross settlement (RTGS) systems,,,,
 reasons for
 receive dividends
-receives
 recent profits and lossesTab..
 reckless,
-reduce
+
 reduction of individual risk
 reduction of systemic risk,
 referrals
@@ -3318,16 +3225,12 @@ relationship to risk
 relationship with risk
 relationship-based approaches,,
 relative market power hypothesis
-rely
-remain
 remuneration-based risks
 renewed interest since GFC
 reorganization
-reorganized
-repeal,,,
+
 report
 reported publicly
-reporting
 reporting requirements
 reports
 repossession costs
@@ -3346,7 +3249,7 @@ reshaping of incentive structures
 residential-mortgage-backed securities (RMBSs),
 resolution regimes,
 resolution regimes,Tab..
-responding
+
 response and prevention
 response to GFC
 responses to GFC,,,,,,,
@@ -3456,7 +3359,6 @@ rulemaking governance
 rules of
 rules, norms and standards
 runs see bank runs
-s
 safe
 safety
 safety net access by securities arm
@@ -3650,7 +3552,7 @@ structured securitization,
 structuring the transaction
 studies
 study
-submit
+
 subordinate notes and/or bonds (SND),,,,
 subprime
 subprime borrower characteristics
@@ -3703,7 +3605,7 @@ systemic/market risk,,,,,,,,,,,,,,
 systems for wholesale payments
 systemwide
 tailored interventions with field experiments
-take into consideration
+
 take-overs
 tax codes
 tax evasion and avoidance
@@ -3766,7 +3668,6 @@ trading venues
 trading venues,
 traditional industrial organization (IO) approach
 traditional main bank studies
-tranching,,,
 transaction
 transaction costs
 transactions
@@ -3833,7 +3734,7 @@ usury ceilings
 usury laws
 value at risk (VaR),,,,,,
 value-maximizing,,
-valuing
+
 van Damme, E.
 variable maturity
 variable maturity mortgages
@@ -3872,6 +3773,8 @@ withdrawal,,,
 workout specialists
 write-downs, Tab..
 writing
+repeal
+
 written explanation
 written request
 year
@@ -3952,9 +3855,9 @@ LEVEL3
 LOW-RISK
 (GAAP)
 EURO
-DELIVER
+
 147
-COMPILE
+
 NATURAL
 490
 EXPERIENCES
@@ -3962,9 +3865,7 @@ SHEET
 JURISDICTION(S)
 208
 REMEDY
-INTERVENING
-FLUCTUATE
-NEWLY
+
 STAKE
 CITIZENS
 SUBMISSIONS
@@ -3993,10 +3894,9 @@ EXPENSE-RELATED
 -2019
 SUBJECTIVE
 SECTOR-SPECIFIC
-ARISING
+
 PARIS
 DISASTER
-EXPLORING
 CIRCULAR
 197
 COUNTERPARTIES
@@ -4025,12 +3925,12 @@ RETAIN
 LOWER-TIERED
 AGREE
 FAMILIAR
-REGULARLY
+
 128
 31
 LONG-TERM
 PRODUCE
-UNDERSTOOD
+
 PRACTITIONERS
 $12
 SUBSEQUENT
@@ -4044,8 +3944,7 @@ UNDERWAY
 WIDE
 19
 275
-SIGNIFICANTLY
-ADMINISTER
+
 HARSHER
 ANTI-FRAGMENTATION
 SALARY
@@ -4065,11 +3964,11 @@ CRITICAL
 RELIGIOUS
 ALLOWANCES
 EXAMPLES
-OCCURRED
+
 126
 FAIR
 ADVISORY
-UNWINDING
+
 ANTICIPATED
 238
 ENCOURAGE
@@ -4086,9 +3985,7 @@ RESTORATION
 14
 TRANSLATE
 -40%
-UNDERMINING
-IMPROVE
-USING
+
 CERTIFICATION
 386
 CONDUIT
@@ -4105,7 +4002,7 @@ PENALTY
 PROPERTIES
 INCENTIVES
 1042
-POSSESSES
+
 42
 489
 PARALLEL
@@ -4205,10 +4102,10 @@ SCRUTINY
 811
 714
 ACCURATELY
-COMPENSATE
+
 OPTION
 INCIDENCE
-CORRECTLY
+
 CHARACTERISATION
 FULFILMENT
 368
@@ -4219,7 +4116,7 @@ RECHARGING
 4%
 LOOK-BACK
 ASSETS/LIABILITIES
-IMPEDES
+
 426
 12%
 COMMITMENTS
@@ -4249,7 +4146,7 @@ ENHANCEMENT
 782
 566
 EXCHANGING
-MATERIALLY
+
 INTRODUCED
 NON-FINANCIAL
 TIMBER
@@ -4259,15 +4156,13 @@ INTERESTED
 VIEWED
 616
 689
-FAVOURABLY
+
 COUNTRY-BY-COUNTRY
 IMMUNITY
 628
-READILY
 WEBSITE
 CUSTOMER
 EXAMPLES
-EXPEDITIOUSLY
 EXPANDING
 58%
 SHELTERING
@@ -4289,7 +4184,7 @@ POST-IMPAIRMENT
 708
 PROLIFERATION
 PILLAR
-DETERIORATING
+
 13
 OBSTACLE
 APPLICATIONS
@@ -4302,8 +4197,7 @@ SCO
 326
 MATERIALITY
 526
-STEMMING
-COMPILING
+
 GULF
 $20
 POIP
@@ -4322,7 +4216,7 @@ IIR TAX PAID
 SECTORS
 475
 295
-AMELIORATE
+
 INTERLINKED
 FIELD
 525
@@ -4337,13 +4231,13 @@ OCCASIONS
 GLOBAL
 SWITCHED-OFF
 26
-MAINTAINING
+
 UN
 WORK-IN-
 1051
 BREAKDOWN
 CONTRAST
-DEMONSTRATING
+
 COPE
 PES
 CHALLENGE
@@ -4357,7 +4251,7 @@ DIVERGENT
 FOCUSES
 297
 NON-CONTROLLING
-TIMELY
+
 TICKET
 ANTALYA
 PARTY
@@ -4384,16 +4278,14 @@ SIMPLEST
 704
 INDUCED
 NOTES
-QUARTERLY
 -2008
 GROUNDS
 291
 454
-RESTORING
 412
-NOMINALLY
+
 442
-COMPELLING
+
 260
 DELINEATE
 335
@@ -4402,10 +4294,10 @@ OPPORTUNITIES
 EARNED
 SOVEREIGN
 783
-INHERENTLY
+
 DECIDE
 224
-FORTIFY
+
 SOMETIMES
 TRADING
 650
@@ -4424,14 +4316,11 @@ REGIMES
 PRESERVE
 VERY
 IIR5
-CREDITING
 MINOR
-SUCCEEDING
 KEYS
 SOFTWARE
 150
 ORPHAN
-EXPERIENCING
 83
 SUCCESSFUL
 X%
@@ -4450,9 +4339,9 @@ REFUNDED
 127
 PLANS
 534
-FACILITATING
+	
 140
-STARTS
+
 GROSS
 EARNS
 CONTINUOUS
@@ -4470,17 +4359,15 @@ UNPREDICTABLE
 OVERLAY
 SMOOTH
 TURN
-FREQUENTLY
 SEPTEMBER
 117
 VEHICLE
-BINDING
+
 INABILITY
 593
 COMPETITORS
 473
 212
-CHALLENGING
 MOVEMENTS
 ENGAGED
 HIGH
@@ -4495,7 +4382,6 @@ SAFE-HARBOURS
 DISPUTES
 575
 CONTRACTOR
-LEADING
 ECONOMIES
 MODEST
 BOOK
@@ -4539,10 +4425,10 @@ EXPLICIT
 MARGIN
 BEHAVIOUR
 REFLECT
-RECEIVING
+
 LIFETIME
 INTERMEDIARY
-REDEEMS
+
 586
 ACCRUAL
 BUILDINGS
@@ -4573,28 +4459,26 @@ $50,000,000,000
 90 days
 acceptable
 adequate
-adequately
 annual
 appropriate
-appropriately
 consistent
 december 1, 2009
 direct
-directly
+
 equitable
-externally
-immediately
+
+
 indirect
-indirectly
+
 may 1, 2010
 necessary
 november
 november 23, 2009
 percent
 periodic
-periodically
+
 permissible
-promptly
+
 reasonable
 safe
 sound
@@ -5643,7 +5527,7 @@ centre of vital interest
 cherry picking
 CIF value
 close
-closely related
+ related
 closing agreement
 cloud computing
 collateral adjustment
@@ -6114,7 +5998,7 @@ place of effective management
 place of management
 platform
 political
-pooling
+
 portfolio interest
 positive list
 possessions of u.s.
@@ -6246,7 +6130,7 @@ shareholder activity
 shareholder services
 shareholders' equity
 shell company
-shifting an incidence of taxation
+an incidence of taxation
 shifting of profits
 short term capital gains
 simplification
@@ -6492,7 +6376,7 @@ ACCOUNT
 ACCOUNTING
 ACCOUNTS
 ACCRUED
-ACCUMULATED
+
 ACCURACY
 ACHIEVE
 ACKNOWLEDGE
@@ -6502,12 +6386,12 @@ ADMINISTRATION
 ADVANCED
 ADVANTAGE
 AFFAIRS
-AGREED
+
 AGREEMENT
 ALREADY
 AMORTISATION
 AMORTISE
-ANALYSING
+
 ANSWER
 ANTE
 APPROACHES
@@ -6543,7 +6427,7 @@ CHAINS
 CHARACTERISTICS
 CHEMICAL
 CLARIFYING
-CLEARLY
+
 COMMENTS
 COMPLETION
 COMPONENT
@@ -6556,7 +6440,7 @@ CONTEXT
 CONTRACT
 CONTRIBUTE
 CONTRIBUTED
-CONTRIBUTING
+
 CONTRIBUTIONS
 CONVENIENT
 CORRELATION
@@ -6581,7 +6465,7 @@ DOCUMENTED
 EARN
 EARNING
 EASIEST
-ECONOMICALLY
+
 EFFECT
 EFFICIENCIES
 ELECTRONICS
@@ -6594,7 +6478,7 @@ ENTERPRISES
 ESSENTIAL
 ESTABLISHMENTS
 EXAMINED
-EXAMINES
+
 EXAMPLE
 EXEMPLIFY
 EXERCISED
@@ -6602,7 +6486,7 @@ EXPECTED
 EXPENDITURE
 EXPERIENCE
 EXPERIENCED
-EXPLAIN
+
 EXPLOITATION
 EXTREME
 FACED
@@ -6631,10 +6515,10 @@ HIGHEST
 HIGHLY
 HINDSIGHT
 IGNORE
-IGNORING
+
 ILLUSTRATE
 ILLUSTRATES
-ILLUSTRATING
+
 ILLUSTRATION
 ILLUSTRATIONS
 IMPORTANT
@@ -6666,7 +6550,7 @@ LICENSEE/TRANSFEREE
 LICENSOR
 LICENSOR/TRANSFEROR
 LIFE
-LIKELY
+
 LINES
 LINKED
 LOSS
@@ -6682,15 +6566,13 @@ MATERIAL
 MATTERS
 MEASURES
 MECHANISMS
-NECESSARILY
+
 NOTED
 OBSERVED
 OFFER
 OFTEN
 ONESIDED
 OPEN
-ORDINARILY
-ORIGINALLY
 OUTLINED
 OVERHEAD
 OVERLOOKED
@@ -6705,7 +6587,7 @@ PERSON
 PHARMACEUTICAL
 POOL
 POSSIBLE
-POTENTIALLY
+
 PRACTICE
 PREPARED
 PRESENCE
@@ -6717,7 +6599,6 @@ PROCESSES
 PRODUCT
 PROJECTED
 PROJECTIONS
-PROPERLY
 PROPERTY
 PROVIDING
 PUBLICATION
@@ -6731,20 +6612,17 @@ REALISE
 REALISTIC
 REALIZE
 REALIZED
-REASONABLY
 RECOGNISE
-RECOGNISING
+
 RECOGNITION
 REFINEMENT
 RELEVANCE
 RELEVANT
 RELIABILITY
 RELIABLE
-RELIABLY
 RELIANCE
 RELIED
 RELIES
-REMAINS
 RENEGOTIATION
 RESALE
 RESOLVED
@@ -6763,8 +6641,6 @@ SALARIES
 SALE
 SALES
 SCALE
-SEEK
-SEEKS
 SELLERS
 SENSE
 SENSITIVE
@@ -6798,9 +6674,9 @@ SUPPORTED
 SYSTEM
 TASKS
 TAXPAYER
-TECHNICALLY
+
 TECHNOLOGICAL
-TECHNOLOGICALLY
+
 TERMS
 THIRDPARTY
 TIMING
@@ -6813,11 +6689,11 @@ TRANSFERRED
 TRANSFERS
 TWOSIDED
 TYPE
-TYPICALLY
+
 ULTIMATE
-ULTIMATELY
+
 UNCONTROLLED
-UNDERLYING
+
 UNDERTAKEN
 UNDETERMINED
 USEFUL
@@ -6852,8 +6728,6 @@ ADDRESS
 AFFILIATES
 AGE
 ALTERS
-ANALYZED
-ANALYZES
 ANTIABUSE
 ASIAN
 AUTHORITIES
@@ -6881,7 +6755,7 @@ CONTROVERSIAL
 CONVENTION
 CORRECT
 CUSTOMERS
-DESCRIBES
+
 DESCRIPTION
 DETRIMENT
 DEVELOPING
@@ -6890,8 +6764,6 @@ DIFFICULTY
 DIRECTED
 DIRECTOR
 DISADVANTAGE
-DISCUSSES
-DISTRIBUTES
 DISTRICT
 DUE
 ECONOMIC
@@ -6923,7 +6795,6 @@ INTERESTS
 INTERRELATED
 INTRODUCTION
 LATE
-LEGALLY
 LEGISLATION
 LICENSE
 LISTING
@@ -6935,8 +6806,8 @@ MILLION
 NAME
 NAMES
 NETWORK
-NORMALLY
-OBTAINING
+
+
 OECD
 ORIGINATED
 OUTBOUND
@@ -6982,7 +6853,7 @@ TWOSTEP
 TYPICAL
 UNABLE
 UNCLEAR
-UNIQUELY
+
 UNIT
 UPDATES
 USES
@@ -7221,17 +7092,17 @@ ACQUIRES
 ACTIVE
 ADDRESSED
 ADMINISTERED
-ADMINISTERING
+
 ADMINISTRABLE
 ADMINISTRATIVE
 ADVANCES
 ADVERSE
-ADVERTISING
+
 AFFECT
 AFFECTS
 AFTERTAX
 AGAIN
-AGREEING
+
 ALIGN
 ALIGNMENT
 ALLEVIATE
@@ -7239,7 +7110,7 @@ ALP
 ALPBASED
 AMOUNTING
 ANTIAVOIDANCE
-APPEALING
+
 AREAS
 ARGUE
 ARGUMENT
@@ -7252,7 +7123,6 @@ AUDITED
 AUTONOMOUS
 BANDINGS
 BASELINE
-BEARING
 BEHAVIOURS
 BELIEVE
 BESPOKE
@@ -7299,7 +7169,7 @@ CLAIMING
 CLAIMS
 CLARIFY
 CLASSIFIED
-CLASSIFYING
+
 CLEAR
 CLIFFEDGE
 CLOUD
@@ -7320,7 +7190,7 @@ COMPOSITION
 COMPREHENSIVE
 CONCEPT
 CONCEPTUAL
-CONCEPTUALLY
+
 CONTINUED
 CONTROLS
 CONVENTIONAL
@@ -7341,9 +7211,9 @@ DECIDING
 DECISIONS
 DEGREES
 DELIVERED
-DELIVERING
+
 DELIVERS
-DEMONSTRABLY
+
 DESIGNATED
 DETAIL
 DETAILED
@@ -7361,13 +7231,13 @@ DISCLOSING
 DISCREPANCIES
 DISCRETE
 DISCRETION
-DISCUSSING
+
 DISPLAY
 DISPOSAL
 DISPUTE
 DISTORTIONS
 DISTRIBUTE
-DISTRIBUTING
+
 DISTRIBUTOR
 DISTRIBUTORS
 DIVERGENCES
@@ -7380,9 +7250,9 @@ EARLIER
 EARLY
 EARNINGS
 EARNOUT
-EASILY
+
 EASY
-EFFECTIVELY
+
 EFFICIENT
 ELIGIBLE
 EMPHASISE
@@ -7397,7 +7267,7 @@ ENVIRONMENT
 EROSION
 ERRORS
 ESCALATOR
-ESSENTIALLY
+
 ESTABLISHMENT
 EUR
 EVENT
@@ -7408,10 +7278,9 @@ EXPLORATION
 EXPLORE
 EXPRESSED
 EXTENDED
-EXTENDING
-EXTREMELY
+
 FACE
-FACILITATE
+
 FAIL
 FAR
 FASTER
@@ -7421,7 +7290,7 @@ FEASIBILITY
 FEASIBLE
 FEATURES
 FILING
-FINALISE
+
 FINALISED
 FINANCE
 FINANCIALS
@@ -7442,13 +7311,13 @@ FOUNDATION
 FRAMEWORKS
 FREE
 FULLRISK
-FUNDAMENTALLY
+
 GAIN
 GAINS
 GENERATE
 GENERATED
 GENERATES
-GENERATING
+
 GOVERNMENTS
 GRIEVANCES
 GROUPS
@@ -7477,7 +7346,7 @@ IMPACTED
 IMPAIRING
 IMPAIRMENT
 IMPAIRMENTS
-IMPAIRS
+
 IMPEDE
 IMPLICATIONS
 IMPROVES
@@ -7514,7 +7383,6 @@ INVESTORS
 IP
 IRREGULAR
 ISOLATE
-ISOLATING
 ISSUED
 ITEM
 JURISDICTIONAL
@@ -7546,12 +7414,10 @@ LONGLIVED
 LOSSCARRY
 LOSSMAKING
 LOWVALUE
-MAINLY
-MAINTAIN
 MAJORITY
 MAKER
 MANAGE
-MANAGING
+
 MANIPULATION
 MARGINAL
 MARGINBASED
@@ -7565,7 +7431,6 @@ MECHANICS
 MEDIUM
 MEMBERS
 MEMBERSHIP
-MERELY
 MET
 METRIC
 MINORITY
@@ -7599,7 +7464,6 @@ OFFSET
 OFSCOPE
 ONES
 ONLINE
-OPERATES
 OPPORTUNITY
 OPPOSED
 OPTIONAL
@@ -7619,14 +7483,13 @@ PARTNERS
 PARTNERSHIPS
 PARTS
 PAYABLE
-PAYING
 PBT
 PERHAPS
 PERIODS
 PERSPECTIVE
 PERTAIN
 PHYSICAL
-PHYSICALLY
+
 PILLARS
 PIVOT
 PLANNING
@@ -7648,12 +7511,11 @@ PREREGIME
 PRESENT
 PRESENTED
 PRESERVED
-PRESERVING
+
 PRESSURE
 PRESSURES
-PRESUMABLY
 PRESUMPTION
-PRIMARILY
+
 PRIMARY
 PRIORITY
 PROBABLY
@@ -7663,7 +7525,7 @@ PRODUCES
 PRODUCING
 PROFITABILITY
 PROFITABLE
-PROFITABLY
+
 PROFITBASED
 PROFITMARGIN
 PROGRESSIVE
@@ -7692,37 +7554,30 @@ REALITY
 REALLOCATE
 REALLOCATED
 REALLOCATES
-REALLOCATING
+
 REALLOCATION
 REASON
 REBUTTABLE
 REBUTTED
-RECEIVE
-RECENTLY
 RECLASSIFIED
 RECOGNISED
-RECOGNIZES
-RECONCILE
 RECORDS
 RECOUP
 RECOVER
 RECOVERING
-REDISTRIBUTING
+
 REFINED
-REFUNDING
+	
 REGION
 REGIONAL
 REGIONS
 REGULAR
 RELIEF
 RELIEVE
-RELIEVING
-REMODELLING
 REMOTE
 REMOTELY
 REMUNERATED
 RENTS
-REOPENING
 REORGANISATION
 REORGANISATIONS
 REPORTED
@@ -7740,7 +7595,6 @@ REVIEWED
 REVIEWS
 RICH
 ROLLED
-ROUGHLY
 ROUTE
 ROYALTY
 S/R
@@ -7762,7 +7616,6 @@ SIMPLIFICATIONS
 SIMPLIFIED
 SIMPLIFY
 SIMPLIFYING
-SIMPLY
 SITUATION
 SMALL
 SOLVE
@@ -7787,15 +7640,14 @@ STRONGEST
 STRUCTURES
 SUBSIDIARY
 SUBSTANTIAL
-SUBSTANTIALLY
+
 SUBSTEPS
-SUFFICIENTLY
+
 SUMMARISE
 SUMMARISED
 SUPPLEMENTARY
 SUPPLIED
 SUSTAINED
-SYMMETRICALLY
 SYMMETRY
 TABLE
 TARGET
@@ -7821,7 +7673,6 @@ TRANSITIONAL
 TRANSPARENT
 TRILLION
 TRUE
-TRYING
 TURNED
 TWICE
 UNAFFECTED
@@ -7856,8 +7707,6 @@ VOLATILE
 VOLATILITY
 WAYS
 WELCOME
-WIDELY
-WITHHOLDING
 WORLD
 ZERO
 PERFORMANCE
@@ -7867,16 +7716,503 @@ CREDITS
 CRITERION
 DEMONSTRATED
 FULL
-INCIDENTALLY
-INITIALLY
 OPTIONS
 OUTCOME
-PERFORMING
 POSED
 PRESUMED
 RECOGNIZED
 SIMPLIFIES
 SPLITTING
-STRICTLY
-SUBSEQUENTLY
-WEIGHTING
+
+ICT
+COMPETENT
+PROVIDERS
+DIRECTIVE
+EUROPEAN
+ICTRELATED
+OVERSEER
+PARLIAMENT
+RESILIENCE
+CONTRACTUAL
+SECURITY
+INCIDENTS
+ESAS
+INCIDENT
+COMMISSION
+RECOVERY
+NATIONAL
+CYBER
+CONTINUITY
+PROVISION
+OJ
+DRAFT
+COOPERATION
+TLPT
+RESPONSE
+MICROENTERPRISES
+1093/2010
+DELEGATED
+EFFECTIVE
+NOTIFICATION
+2022/2555
+ENTITY’S
+PROTECTION
+ARTICLES
+TOOLS
+STAFF
+POWER
+1094/2010
+COMMUNICATION
+ACTS
+1748
+600
+150
+APPROPRIATIONS
+ESMA
+PROPOSAL/INITIATIVE
+2022
+800
+1611
+EBA
+INSERT
+EIOPA
+PENETRATION
+FORCE
+2027
+CYBERSECURITY
+998
+FEES
+ENTITIES’
+BUDGET
+NIS
+2023
+2024
+INFRASTRUCTURE
+SYSTEMIC
+MULTIANNUAL
+2025
+2026
+ENTRY
+1095/2010
+ELEMENTS
+INFRASTRUCTURES
+LEGISLATIVE
+LED
+OVERSEERS
+FORUM
+ECB
+SUPERVISORS
+PERSONAL
+
+ONSITE
+DEPENDENCIES
+BTHE
+FIRMS
+2020
+ENISA
+DETECTION
+CYBERATTACKS
+OUTPUTS
+IMPACTS
+1373
+10313
+1948
+ENHANCE
+ENVISAGED
+SUBCONTRACTING
+VULNERABILITIES
+648/2012
+LATTER
+ASSESSMENTS
+COMPLETE
+PRUDENTIAL
+2016/1148
+DELAY
+INTELLIGENCE
+QUALITY
+DISRUPTION
+ATHE
+BREACHES
+DULY
+SETTLEMENT
+REMEDIAL
+861
+AGENCY
+2021/XX
+INCREASED
+TEMPORARY
+INITIATIVE
+
+SUBSECTORS
+2016/
+TPPS
+INVESTIGATIONS
+SOLUTIONS
+XX
+INVESTIGATION
+PROTOCOLS
+909/2014
+0
+DUTIES
+UNION’S
+AUDITS
+PLACES
+OUTSOURCING
+RATING
+CRITICALITY
+AUTHORISED
+PO
+ESA
+DAMAGE
+DIRECTIVES
+EC
+EXPERTISE
+
+DESIGNATION
+CTHE
+CRIMINAL
+DECIMAL
+DEPLOYMENT
+PROVIDER’S
+1060/2009
+MONTHS
+RULEBOOK
+TEAM
+AWARENESS
+COM2020
+ANALYSES
+APRIL
+CLIENTS
+SUPPLEMENT
+
+CONFIDENTIAL
+DURATION
+SOCIAL
+IMPOSING
+HEADING
+ASSETREFERENCED
+TESTERS
+
+CONVERGENCE
+OUTPUT
+FOLLOWED
+SUBTOTAL
+HORIZONTAL
+EXPERTS
+DOCUMENT
+
+SCENARIOS
+
+OVERSEEN
+AMENDMENTS
+INITIATIVES
+VULNERABILITY
+BANK
+VOLUNTARY
+PREMISES
+PREVENTION
+ITHE
+REPOSITORIES
+HUB
+
+–
+EXPOSURE
+TREATY
+MUTUAL
+PROCEDURE
+REMEDIES
+SITE
+16
+600/2014
+CRUCIAL
+DIMENSION
+PREPARATORY
+INSTITUTION
+PREJUDICE
+PENSION
+OCCUPATIONAL
+HEADINGS
+1811
+PLANNED
+2014/65/EU
+GOVERNED
+600
+150
+800
+◻
+998
+861
+0
+☑
+DTHE
+EMPOWERED
+COMPATIBILITY
+ANTIFRAUD
+1
+PROFESSIONAL
+ESRB
+PROMOTE
+FUNDED
+THIRDCOUNTRY
+ORGANISATIONAL
+COFINANCED
+TEMPLATES
+2018
+9560
+BUDGETARY
+27
+APPEAL
+ISSUERS
+REPRESENTATIVES
+OBLIGATION
+1305
+825
+ACCOMPANIED
+PROCEEDINGS
+EXECUTION
+GOOD
+MICA
+UPDATED
+FINALLY
+DELETED
+PENSIONS
+FEEDBACK
+EMPLOYER’S
+UNDERTAKINGS
+CONTRACTED
+MONEY
+UNCOORDINATED
+75
+OFFICIAL
+UPDATE
+SECRECY
+FIRM
+CRYPTOASSETS
+RETIREMENT
+REGISTER
+UNAUTHORIZED
+INTEGRAL
+314
+APARAGRAPH
+RECEIPT
+KEEP
+2381
+INVOLVEMENT
+AIM
+AGREEMENTS
+PROCESSED
+EXIT
+DG
+RECEIVED
+CAUSED
+CONTENT
+CLASSIFY
+BIN
+OBSTACLES
+GUARANTEES
+REDUNDANT
+TOKENS
+CONSEQUENCES
+FREEDOM
+476
+TIMES
+ONEOFF
+DORA
+LANDSCAPE
+INCOMPLETE
+SUBCONTRACTOR
+INSOFAR
+ANNEX
+‘
+FACILITIES
+IITHE
+DISPARITIES
+OPERATORS
+FINTECH
+PROVIDER’
+2016/679
+DOCUMENTS
+AC
+2857
+
+CORRECTIVE
+TARGETED
+CLAUSES
+EXERCISES
+2013
+2
+PROMPT
+FOLLOWUP
+COURT
+CONSULTATIONS
+SENIOR
+DAY
+
+DELEGATION
+EXPERT
+KNOWLEDGE
+DECEMBER
+JUSTICE
+GUARANTEE
+INT
+DEVELOPMENTS
+…
+FTHE
+BUILT
+OFFICIALS
+UNDERTAKING
+NONCOMPLIANCE
+5488
+FTE
+CSD
+COMMITMENT
+GRADES
+OVERSEE
+CAUSE
+SUPPLY
+MAGNITUDE
+F
+CONTRIBUTES
+TFEU
+STRENGTHENED
+LEARNING
+
+·THE
+SUBCOMMITTEE
+TRIGGER
+ENTAILS
+CONTACT
+INSTITUTIONAL
+SOON
+FINANCED
+CROWDFUNDING
+LIST
+APPOINTED
+WRITTEN
+AUTHORISATION
+SUBOUTSOURCING
+ROADS
+STAGES
+FUNDAMENTAL
+PREPAREDNESS
+TEAMS
+FOSTER
+CALLED
+MICRO
+STRUCTURE
+ETHE
+2006/43/EC
+SECTOR’S
+STATUTORY
+CLARITY
+DETECT
+ENSURED
+498
+CROSSSECTORAL
+ECI
+ANCILLARY
+COMMISSION’S
+SUMMARY
+ARCHITECTURE
+PROFILE
+PARTIAL
+SKILLS
+MALICIOUS
+REDEPLOYMENT
+STRESSED
+DEPOSITORIES
+RISKBASED
+COVERS
+OUTSOURCED
+CENTRALISATION
+CHANNELS
+OBJECTIVES…’
+FORMAL
+DESCRIPTIONS
+OSIIS
+KM
+PRESIDENT
+2016/97
+ANOMALOUS
+HARDWARE
+PACKAGE
+ENTRUSTED
+‘SPECIFIC
+INFORMATIONSHARING
+2009/65/EC
+GSIIS
+ROLES
+PEOPLE
+PROGRAMME
+⇩
+NOTICES
+AIMING
+EXPECTATIONS
+TAILORED
+ENTAILED
+STUDENT
+’
+MODES
+RESPOND
+LEGITIMATE
+ACCESSIBILITY
+SHEETS
+1A
+UNEVEN
+G7
+PROVIDERS’
+2A
+RISK’
+DGS
+CONSULTED
+DEPENDENCY
+INTERCONNECTED
+TRUSTED
+INSTITUTION’
+SANCTION
+PUBLISH
+PILOT
+AST
+CONSUMER
+EEA
+POSTCRISIS
+SEVERITY
+HARMONISE
+MANAGERS
+XX/202X
+DELEGATE
+INSTRUCTIONS
+LEX
+COMMUNICATIONS
+REASONED
+ADMINISTRATORS
+101
+SFD
+2015/2366
+CONTINGENCY
+GEOGRAPHICAL
+CONSULTING
+TARGETS
+JEOPARDISE
+LESSONS
+2003
+2009/110/EC
+DISPROPORTIONATE
+REPOSITORY’
+MOVEMENT
+MAINTENANCE
+CANDIDATE
+FUND
+IIITHE
+INTERMEDIARY’
+INDEPTH
+PLEASE
+OCTOBER
+COVERING
+CSPECIFY
+COUNTERPARTY
+JOINTLY
+CRYPTOASSET
+LARGER
+PROTECTED
+CODE

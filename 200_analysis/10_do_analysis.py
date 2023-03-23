@@ -193,7 +193,7 @@ def do_run(input_file_name, output_file_name):
     #
     # write results file
     #
-    out_file = open("./results/results-" + output_file_name, 'w')
+    out_file = open("./results/results-" + output_file_name, 'w', encoding="utf-8")
     out_file.write(out_text)
     out_file.close()
     print("   RESULTS WRITTEN TO: " + "./results/results-" + output_file_name)
@@ -213,7 +213,7 @@ def do_run(input_file_name, output_file_name):
     # write frequency file
     #
     out_text = ""
-    out_file = open("./frequency/frequency-" + output_file_name, 'w')
+    out_file = open("./frequency/frequency-" + output_file_name, 'w', encoding="utf-8")
     for token in set(unique['Operators']):
         out_text += "Operators;" + token + ";" + str(unique['Operators'].count(token)) + "\n"
     for token in set(unique['Operands']):
