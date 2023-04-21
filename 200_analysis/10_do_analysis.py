@@ -39,15 +39,17 @@ def sanitize(entry):
 # do_run(file_name)
 # -------------------------------------------------------------------------
 def do_run(input_file_name, output_file_name):
-    out_text = "file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
+    out_text = "file_name;Operands;UniqueOperands;Operators;UniqueOperators;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
 
     count = {}
+    count['LogicalConnectors'] = 0
     count['Operators'] = 0
     count['Operands'] = 0
     count['Other'] = 0
     count['Unclassified'] = 0
 
     unique = {}
+    unique['LogicalConnectors'] = []
     unique['Operators'] = []
     unique['Operands'] = []
     unique['Other'] = []
@@ -77,11 +79,17 @@ def do_run(input_file_name, output_file_name):
     for line in input_file.readlines():
         Unclassified.append(sanitize(line.strip()))
 
+    LogicalConnectors = []
+    input_file = open("../020_word_lists/LogicalConnectors.txt", encoding='utf-8')
+    for line in input_file.readlines():
+        LogicalConnectors.append(sanitize(line.strip()))
+
     if False:
         print(Operators)
         print(Operands)
         print(Other)
         print(Unclassified)
+        print(LogicalConnectors)
 
 
     #
@@ -93,6 +101,7 @@ def do_run(input_file_name, output_file_name):
         print("  READING WORDS")
         print("    # Operators: " + str(len(Operators)))
         print("    # Operands: " + str(len(Operands)))
+        print("    # LogicalConnectors: " + str(len(LogicalConnectors)))
         print("    # Other: " + str(len(Other)))
         print("    # Unclassified: " + str(len(Unclassified)))
 
@@ -112,6 +121,7 @@ def do_run(input_file_name, output_file_name):
                     unique['Operators'].append(token)
                 except:
                     pass
+
             if token in Operands:
                 is_classified = True
                 count['Operands'] += 1
@@ -119,6 +129,15 @@ def do_run(input_file_name, output_file_name):
                     unique['Operands'].append(token)
                 except:
                     pass
+
+            if token in LogicalConnectors:
+                is_classified = True
+                count['LogicalConnectors'] += 1
+                try:
+                    unique['LogicalConnectors'].append(token)
+                except:
+                    pass
+
             if token in Other:
                 is_classified = True
                 count['Other'] += 1
@@ -126,6 +145,7 @@ def do_run(input_file_name, output_file_name):
                     unique['Other'].append(token)
                 except:
                     pass
+
             if token in Unclassified:
                 is_classified = True
                 count['Unclassified'] += 1
@@ -212,12 +232,15 @@ def do_run(input_file_name, output_file_name):
     #
     # write frequency file
     #
+    # Operands;UniqueOperands;Operators;UniqueOperators;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
     out_text = ""
     out_file = open("./frequency/frequency-" + output_file_name, 'w', encoding="utf-8")
-    for token in set(unique['Operators']):
-        out_text += "Operators;" + token + ";" + str(unique['Operators'].count(token)) + "\n"
     for token in set(unique['Operands']):
         out_text += "Operands;" + token + ";" + str(unique['Operands'].count(token)) + "\n"
+    for token in set(unique['Operators']):
+        out_text += "Operators;" + token + ";" + str(unique['Operators'].count(token)) + "\n"
+    for token in set(unique['LogicalConnectors']):
+        out_text += "LogicalConnectors;" + token + ";" + str(unique['LogicalConnectors'].count(token)) + "\n"
     for token in set(unique['Other']):
         out_text += "Other;" + token + ";" + str(unique['Other'].count(token)) + "\n"
     for token in set(unique['Unclassified']):

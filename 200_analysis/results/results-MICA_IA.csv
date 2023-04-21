@@ -1,2 +1,2 @@
-file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
-../010_raw_documents/MICA_IA.txt;14965;1406;7749;497;16972;237;97;17;42962
+file_name;Operands;UniqueOperands;Operators;UniqueOperators;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
+../010_raw_documents/MICA_IA.txt;3684;96;14965;1406;7749;497;16972;237;97;17;42962

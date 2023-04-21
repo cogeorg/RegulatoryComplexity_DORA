@@ -1,2 +1,2 @@
-file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
-../010_raw_documents/DORA_EP_PA-2022.txt;18582;1340;8342;453;17484;216;72;17;44352
+file_name;Operands;UniqueOperands;Operators;UniqueOperators;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
+../010_raw_documents/DORA_EP_PA-2022.txt;3896;80;18582;1340;8342;453;17484;216;72;17;44352

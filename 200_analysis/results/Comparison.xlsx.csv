@@ -1,32 +1,22 @@
-;;;;;;;;;
-Regulation;Total Words;Operators;Unique Operators;Operands;Unique Operands;Total Volume;Potential Volume;Level;
-;;;;;;;;;
-DORA Initial Proposal (2020);41 203;9 291;462;19 503;1 469;28 794;1 471;5,11%;
-DORA Initial Proposal (2020) - Impact Assessment;49 871;10 390;530;21 040;1 498;31 430;1 500;4,77%;
-DORA Provisional Agreement EP;44 352;8 342;453;18 582;1 340;26 924;1 342;4,98%;
-DORA Final Regulation (2022);45 888;8 577;454;19 588;1 344;28 165;1 346;4,78%;
-;;;;;;;;;
-MICA;94 416;16 625;501;32 747;1 404;49 372;1 406;2,85%;
-MICA - Impact Assessment;42 962;7 749;497;14 965;1 406;22 714;1 408;6,20%;
-AI;47 360;8 941;463;16 442;1 277;25 383;1 279;5,04%;
-AI - Impact Assessment;55842;10 874;533;19 193;1 473;30 067;1 475;4,91%;
-;;;;;;;;;
-DORA Final Regulation - Preamble;15 682;2 768;357;6 764;998;9 532;1 000;10,49%;
-DORA Final Regulation - Chapter 1;3 227;582;94;1 433;385;2 015;387;19,21%;
-DORA Final Regulation - Chapter 2;5 591;1 209;171;2 475;475;3 684;477;12,95%;
-DORA Final Regulation - Chapter 3;2 833;573;116;1 185;323;1 758;325;18,49%;
-DORA Final Regulation - Chapter 4;1 976;428;111;794;278;1 222;280;22,91%;
-DORA Final Regulation - Chapter 5;10 664;1 813;226;4 557;650;6 370;652;10,24%;
-DORA Final Regulation - Chapter 6;243;44;25;111;73;155;75;48,39%;
-DORA Final Regulation - Chapter 7;2 754;564;113;1 152;337;1 716;339;19,76%;
-DORA Final Regulation - Chapter 8;365;65;26;127;53;192;55;28,65%;
-DORA Final Regulation - Chapter 9;2 519;531;92;980;240;1 511;242;16,02%;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
+Regulation;Total Words;Operators;Unique Operators;Operands;Unique Operands;Logical Connectors;Unique Logical Connectors;Total Volume;Potential Volume;Level
+;;;;;;;;;;
+DORA Initial Proposal (2020);41 203;9 291;462;19 503;1 469;3392;81;28 794;1 471;5,11%
+DORA Initial Proposal (2020) - Impact Assessment;49 871;10 390;530;21 040;1 498;4264;90;31 430;1 500;4,77%
+DORA Provisional Agreement EP;44 352;8 342;453;18 582;1 340;3896;80;26 924;1 342;4,98%
+DORA Final Regulation (2022);45 888;8 577;454;19 588;1 344;4080;79;28 165;1 346;4,78%
+;;;;;;;;;;
+MICA;94 416;16 625;501;32 747;1 404;8675;86;49 372;1 406;2,85%
+MICA - Impact Assessment;42 962;7 749;497;14 965;1 406;3684;96;22 714;1 408;6,20%
+AI;47 360;8 941;463;16 442;1 277;4129;83;25 383;1 279;5,04%
+AI - Impact Assessment;55842;10 874;533;19 193;1 473;5196;95;30 067;1 475;4,91%
+;;;;;;;;;;
+DORA Final Regulation - Preamble;15 682;2 768;357;6 764;998;1362;67;9 532;1 000;10,49%
+DORA Final Regulation - Chapter 1;3 227;582;94;1 433;385;297;28;2 015;387;19,21%
+DORA Final Regulation - Chapter 2;5 591;1 209;171;2 475;475;557;29;3 684;477;12,95%
+DORA Final Regulation - Chapter 3;2 833;573;116;1 185;323;260;28;1 758;325;18,49%
+DORA Final Regulation - Chapter 4;1 976;428;111;794;278;176;24;1 222;280;22,91%
+DORA Final Regulation - Chapter 5;10 664;1 813;226;4 557;650;861;40;6 370;652;10,24%
+DORA Final Regulation - Chapter 6;243;44;25;111;73;19;6;155;75;48,39%
+DORA Final Regulation - Chapter 7;2 754;564;113;1 152;337;263;29;1 716;339;19,76%
+DORA Final Regulation - Chapter 8;365;65;26;127;53;34;14;192;55;28,65%
+DORA Final Regulation - Chapter 9;2 519;531;92;980;240;251;24;1 511;242;16,02%
