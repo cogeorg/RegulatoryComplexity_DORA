@@ -39,8 +39,6 @@ def sanitize(entry):
 # do_run(file_name)
 # -------------------------------------------------------------------------
 def do_run(input_file_name, output_file_name):
-    out_text = "file_name;Operands;UniqueOperands;Operators;UniqueOperators;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
-
     count = {}
     count['LogicalConnectors'] = 0
     count['Operators'] = 0
@@ -185,11 +183,29 @@ def do_run(input_file_name, output_file_name):
     print("  FRACTION FOUND: " + str(round(frac,2)))
 
     # add output
+    out_text = "file_name;LogicalConnectors;UniqueLogicalConnectors;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
     out_text += input_file_name
     for count_key in sorted(count.keys()):
         out_text += ";" + str(count[count_key]) + ";" + str(len(set(unique[count_key])))
     out_text += ";" + str(total_words) + "\n"
 
+    latex_text = ""
+    # latex_text = "\\begin{table}[h]\\begin{tabular}{llllllll}\n"
+    # latex_text += "\\toprule\n"
+    # latex_text += "file_name & {\\bf Total Words} & {\\bf Logical Connectors} & {\\bf Unique Logical Connectors} & {\\bf Operands} & {\\bf Unique Operands} & {\\bf Operators} & {\\bf Unique Operators} & {\\bf Total Volume} & {\\bf Potential Volume} & {\\bf Level}\n"
+    # latex_text += "\\midrule\n"
+    latex_text += input_file_name + " & " + str(total_words) 
+    latex_text += " & " + str(count["LogicalConnectors"]) + " & " + str(len(set(unique["LogicalConnectors"])))
+    latex_text += " & " + str(count["Operands"]) + " & " + str(len(set(unique["Operands"])))
+    latex_text += " & " + str(count["Operators"]) + " & " + str(len(set(unique["Operators"])))
+    TotalVolume = count["Operators"] + count["Operands"] + count["LogicalConnectors"]
+    PotentialVolume = 2 + len(set(unique["Operands"]))
+    Level = 100.0 * round(PotentialVolume / TotalVolume,3)
+    latex_text += " & " + str(TotalVolume) + " & " + str(PotentialVolume) + " & " + str(Level) + "\%" + "\\\\\n"
+    # latex_text += "\\bottomrule\n"
+    # latex_text += "\end{tabular}\caption{Caption}\label{Tab::TableX}\end{table}\n"
+
+    
     # #
     # # compute num operators, operands
     # #
@@ -217,6 +233,14 @@ def do_run(input_file_name, output_file_name):
     out_file.write(out_text)
     out_file.close()
     print("   RESULTS WRITTEN TO: " + "./results/results-" + output_file_name)
+
+    #
+    # write latex
+    #
+    latex_out_file = open("./results/" + output_file_name.rstrip(".csv") + ".tex", 'w', encoding="utf-8")
+    latex_out_file.write(latex_text)
+    latex_out_file.close()
+    print("   LATEX WRITTEN TO: " + "./results/" + output_file_name.rstrip(".csv") + ".tex")
 
     #
     # write out unclassified tokens

@@ -1,2 +1,2 @@
-file_name;Operands;UniqueOperands;Operators;UniqueOperators;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
+file_name;LogicalConnectors;UniqueLogicalConnectors;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
 ../010_raw_documents/DORA_FinReg-2022--7.txt;263;29;1152;337;564;113;1212;110;5;3;2754
