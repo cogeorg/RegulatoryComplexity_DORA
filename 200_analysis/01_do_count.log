@@ -1,0 +1,66 @@
+<<<<<< WORKING ON: ../010_raw_documents/DORA_FinReg-2022.txt
+  READING WORDS
+    # Operators: 1053
+    # Operands: 8218
+    # RegulatoryOperators: 161
+    # Other: 939
+    # Unclassified: 20
+  TOTAL WORDS: 45888
+  TOTAL CLASSIFIED: 43502
+  TOTAL UNCLASSIFIED: 60
+  TOTAL OTHER: 18539
+  TOTAL NOT FOUND: 2386
+  FRACTION FOUND: 0.95
+   RESULTS WRITTEN TO: ./results/results-DORA_FinReg-2022.csv
+   LATEX WRITTEN TO: ./results/DORA_FinReg-2022.tex
+   UNCLASSIFIED TOKENS WRITTEN TO: ./unclassified/unclassified-DORA_FinReg-2022.csv
+<<<<<< WORKING ON: ../010_raw_documents/DORA_EP_PA-2022.txt
+  READING WORDS
+    # Operators: 1053
+    # Operands: 8218
+    # RegulatoryOperators: 161
+    # Other: 939
+    # Unclassified: 20
+  TOTAL WORDS: 44352
+  TOTAL CLASSIFIED: 41492
+  TOTAL UNCLASSIFIED: 72
+  TOTAL OTHER: 17484
+  TOTAL NOT FOUND: 2860
+  FRACTION FOUND: 0.94
+   RESULTS WRITTEN TO: ./results/results-DORA_EP_PA-2022.csv
+   LATEX WRITTEN TO: ./results/DORA_EP_PA-2022.tex
+   UNCLASSIFIED TOKENS WRITTEN TO: ./unclassified/unclassified-DORA_EP_PA-2022.csv
+   FREQUENCIES WRITTEN TO: ./frequency/frequency-DORA_EP_PA-2022.csv
+>>>>>> FINISHED
+<<<<<< WORKING ON: ../010_raw_documents/DORA_Initial-2020.txt
+  READING WORDS
+    # Operators: 1053
+    # Operands: 8218
+    # RegulatoryOperators: 161
+    # Other: 939
+    # Unclassified: 20
+  TOTAL WORDS: 41203
+  TOTAL CLASSIFIED: 38848
+  TOTAL UNCLASSIFIED: 66
+  TOTAL OTHER: 16588
+  TOTAL NOT FOUND: 2355
+  FRACTION FOUND: 0.94
+   RESULTS WRITTEN TO: ./results/results-DORA_Initial-2020.csv
+   LATEX WRITTEN TO: ./results/DORA_Initial-2020.tex
+   UNCLASSIFIED TOKENS WRITTEN TO: ./unclassified/unclassified-DORA_Initial-2020.csv
+   FREQUENCIES WRITTEN TO: ./frequency/frequency-DORA_Initial-2020.csv
+>>>>>> FINISHED
+<<<<<< WORKING ON: ../010_raw_documents/DORA_Initial-2020_IA.txt
+  READING WORDS
+    # Operators: 1053
+    # Operands: 8218
+    # RegulatoryOperators: 161
+    # Other: 939
+    # Unclassified: 20
+<<<<<< WORKING ON: ../010_raw_documents/DORA_FinReg-2022--0.txt
+  READING WORDS
+    # Operators: 1053
+    # Operands: 8218
+    # RegulatoryOperators: 161
+    # Other: 939
+    # Unclassified: 20

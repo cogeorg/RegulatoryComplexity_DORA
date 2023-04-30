@@ -190,11 +190,11 @@ def do_run(input_file_name, output_file_name):
     out_text += ";" + str(total_words) + "\n"
 
     latex_text = ""
-    # latex_text = "\\begin{table}[h]\\begin{tabular}{llllllll}\n"
+    # latex_text = "\\begin{table}[h]\\begin{tabular}{lllllllll}\n"
     # latex_text += "\\toprule\n"
-    # latex_text += "file_name & {\\bf Total Words} & {\\bf Logical Connectors} & {\\bf Unique Logical Connectors} & {\\bf Operands} & {\\bf Unique Operands} & {\\bf Operators} & {\\bf Unique Operators} & {\\bf Total Volume} & {\\bf Potential Volume} & {\\bf Level}\n"
+    # latex_text += "file_name & {\\bf Total Words} & {\\bf Fraction Found} & {\\bf Regulatory Operators} & {\\bf Unique Regulatory Operators} & {\\bf Operands} & {\\bf Unique Operands} & {\\bf Operators} & {\\bf Unique Operators} & {\\bf Total Volume} & {\\bf Potential Volume} & {\\bf Level}\n"
     # latex_text += "\\midrule\n"
-    latex_text += input_file_name + " & " + str(total_words) 
+    latex_text += input_file_name + " & " + str(total_words) + " & " + str(round(frac,2))
     latex_text += " & " + str(count["RegulatoryOperators"]) + " & " + str(len(set(unique["RegulatoryOperators"])))
     latex_text += " & " + str(count["Operands"]) + " & " + str(len(set(unique["Operands"])))
     latex_text += " & " + str(count["Operators"]) + " & " + str(len(set(unique["Operators"])))
