@@ -1,2 +1,2 @@
-file_name;LogicalConnectors;UniqueLogicalConnectors;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
-../010_raw_documents/AI_IA.txt;5196;95;19193;1473;10874;533;21298;246;121;15;55842
+file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
+../010_raw_documents/AI_IA.txt;19193;1473;10874;533;21298;246;686;77;121;15;55842

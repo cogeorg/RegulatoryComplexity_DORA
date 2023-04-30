@@ -40,14 +40,14 @@ def sanitize(entry):
 # -------------------------------------------------------------------------
 def do_run(input_file_name, output_file_name):
     count = {}
-    count['LogicalConnectors'] = 0
+    count['RegulatoryOperators'] = 0
     count['Operators'] = 0
     count['Operands'] = 0
     count['Other'] = 0
     count['Unclassified'] = 0
 
     unique = {}
-    unique['LogicalConnectors'] = []
+    unique['RegulatoryOperators'] = []
     unique['Operators'] = []
     unique['Operands'] = []
     unique['Other'] = []
@@ -77,17 +77,17 @@ def do_run(input_file_name, output_file_name):
     for line in input_file.readlines():
         Unclassified.append(sanitize(line.strip()))
 
-    LogicalConnectors = []
-    input_file = open("../020_word_lists/LogicalConnectors.txt", encoding='utf-8')
+    RegulatoryOperators = []
+    input_file = open("../020_word_lists/RegulatoryOperators.txt", encoding='utf-8')
     for line in input_file.readlines():
-        LogicalConnectors.append(sanitize(line.strip()))
+        RegulatoryOperators.append(sanitize(line.strip()))
 
     if False:
         print(Operators)
         print(Operands)
         print(Other)
         print(Unclassified)
-        print(LogicalConnectors)
+        print(RegulatoryOperators)
 
 
     #
@@ -99,7 +99,7 @@ def do_run(input_file_name, output_file_name):
         print("  READING WORDS")
         print("    # Operators: " + str(len(Operators)))
         print("    # Operands: " + str(len(Operands)))
-        print("    # LogicalConnectors: " + str(len(LogicalConnectors)))
+        print("    # RegulatoryOperators: " + str(len(RegulatoryOperators)))
         print("    # Other: " + str(len(Other)))
         print("    # Unclassified: " + str(len(Unclassified)))
 
@@ -128,11 +128,11 @@ def do_run(input_file_name, output_file_name):
                 except:
                     pass
 
-            if token in LogicalConnectors:
+            if token in RegulatoryOperators:
                 is_classified = True
-                count['LogicalConnectors'] += 1
+                count['RegulatoryOperators'] += 1
                 try:
-                    unique['LogicalConnectors'].append(token)
+                    unique['RegulatoryOperators'].append(token)
                 except:
                     pass
 
@@ -183,7 +183,7 @@ def do_run(input_file_name, output_file_name):
     print("  FRACTION FOUND: " + str(round(frac,2)))
 
     # add output
-    out_text = "file_name;LogicalConnectors;UniqueLogicalConnectors;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
+    out_text = "file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
     out_text += input_file_name
     for count_key in sorted(count.keys()):
         out_text += ";" + str(count[count_key]) + ";" + str(len(set(unique[count_key])))
@@ -195,10 +195,10 @@ def do_run(input_file_name, output_file_name):
     # latex_text += "file_name & {\\bf Total Words} & {\\bf Logical Connectors} & {\\bf Unique Logical Connectors} & {\\bf Operands} & {\\bf Unique Operands} & {\\bf Operators} & {\\bf Unique Operators} & {\\bf Total Volume} & {\\bf Potential Volume} & {\\bf Level}\n"
     # latex_text += "\\midrule\n"
     latex_text += input_file_name + " & " + str(total_words) 
-    latex_text += " & " + str(count["LogicalConnectors"]) + " & " + str(len(set(unique["LogicalConnectors"])))
+    latex_text += " & " + str(count["RegulatoryOperators"]) + " & " + str(len(set(unique["RegulatoryOperators"])))
     latex_text += " & " + str(count["Operands"]) + " & " + str(len(set(unique["Operands"])))
     latex_text += " & " + str(count["Operators"]) + " & " + str(len(set(unique["Operators"])))
-    TotalVolume = count["Operators"] + count["Operands"] + count["LogicalConnectors"]
+    TotalVolume = count["Operators"] + count["Operands"] + count["RegulatoryOperators"]
     PotentialVolume = 2 + len(set(unique["Operands"]))
     Level = 100.0 * round(PotentialVolume / TotalVolume,3)
     latex_text += " & " + str(TotalVolume) + " & " + str(PotentialVolume) + " & " + str(Level) + "\%" + "\\\\\n"
@@ -256,15 +256,15 @@ def do_run(input_file_name, output_file_name):
     #
     # write frequency file
     #
-    # Operands;UniqueOperands;Operators;UniqueOperators;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
+    # Operands;UniqueOperands;Operators;UniqueOperators;RegulatoryOperators;UniqueRegulatoryOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
     out_text = ""
     out_file = open("./frequency/frequency-" + output_file_name, 'w', encoding="utf-8")
     for token in set(unique['Operands']):
         out_text += "Operands;" + token + ";" + str(unique['Operands'].count(token)) + "\n"
     for token in set(unique['Operators']):
         out_text += "Operators;" + token + ";" + str(unique['Operators'].count(token)) + "\n"
-    for token in set(unique['LogicalConnectors']):
-        out_text += "LogicalConnectors;" + token + ";" + str(unique['LogicalConnectors'].count(token)) + "\n"
+    for token in set(unique['RegulatoryOperators']):
+        out_text += "RegulatoryOperators;" + token + ";" + str(unique['RegulatoryOperators'].count(token)) + "\n"
     for token in set(unique['Other']):
         out_text += "Other;" + token + ";" + str(unique['Other'].count(token)) + "\n"
     for token in set(unique['Unclassified']):
