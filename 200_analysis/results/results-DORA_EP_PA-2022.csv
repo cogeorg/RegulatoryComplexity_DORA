@@ -1,2 +1,2 @@
-file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
-../010_raw_documents/DORA_EP_PA-2022.txt;18582;1340;8342;453;17484;216;1256;72;72;17;44352
+file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;WordCount
+../010_raw_documents/DORA_EP_PA-2022.txt;1452;76;14958;974;13889;463;43189

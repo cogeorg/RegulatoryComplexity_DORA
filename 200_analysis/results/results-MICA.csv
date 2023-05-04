@@ -1,2 +1,2 @@
-file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
-../010_raw_documents/MICA.txt;32747;1404;16625;501;42114;244;2687;80;112;14;94416
+file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;WordCount
+../010_raw_documents/MICA.txt;3092;89;24779;993;30834;494;91092

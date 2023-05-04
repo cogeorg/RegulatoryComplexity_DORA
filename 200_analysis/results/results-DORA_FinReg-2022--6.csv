@@ -1,2 +1,2 @@
-file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
-../010_raw_documents/DORA_FinReg-2022--6.txt;111;73;44;25;93;36;5;3;1;1;243
+file_name;RegulatoryOperators;UniqueRegulatoryOperators;Operands;UniqueOperands;Operators;UniqueOperators;WordCount
+../010_raw_documents/DORA_FinReg-2022--6.txt;5;3;82;59;88;37;237

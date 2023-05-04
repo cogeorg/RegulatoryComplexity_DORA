@@ -1,0 +1,1 @@
+The sorted files have been manually sorted by length of n-gram and then length of string and should be used in production. The OLD files are for comparison with Colliard and Georg (2023).
